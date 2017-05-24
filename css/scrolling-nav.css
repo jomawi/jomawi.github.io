@@ -35,26 +35,26 @@ of those sections to manage the look and feel of the site. */
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #dee6f2;
+    background: #c4d8ec;
 }
 
 .about-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #e0def2;
+    background: #c2c2d6;
 }
 
 .resume-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #dee6f2;
+    background: #c4d8ec;
 }
 
 .contact-section {
     height: 100%;
     padding-top: 150px;
     text-align: center;
-    background: #e0def2;
+    background: #c2c2d6;
 }
