@@ -227,6 +227,7 @@ th {
   }
   img {
     max-width: 100% !important;
+	height: auto;
   }
   p,
   h2,
@@ -1114,6 +1115,7 @@ figure {
 }
 img {
   vertical-align: middle;
+  max-width: 100%;
 }
 .img-responsive,
 .thumbnail > img,
